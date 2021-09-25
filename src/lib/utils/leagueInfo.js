@@ -11,7 +11,7 @@ export const homepageText = `
   <p>Da nicht alle Owner den zusätzlichen Schritt mitgehen wollten, wurden passende Kandidaten relativ schnell gefunden und es entstand eine sehr homogene und entspannte Truppe, die mit dem nötigen Ehrgeiz ausgestattet, seit dem um Ruhm und Ehre kämpfen.</p>
   <p>PAIN</p>
   <p>"I used to to wake up on Sunday and feel slightly hungover but well rested to enjoy a relaxing day of football. Then I started playing dynasty football and my Sunday experience is like no other. Instead of taking a walk in the sun i sit and ask god why i have to face Zeugen Mariotas again. Pain has truly changed my life."</p>
-  <p>Sometimes i don't even have to wait until Sunday  for the pain to kick in. Sometimes it'll come on Thursday night when my opponents Lockett scores 53 points. Or sometimes it'll last all the way through Monday night as i watch AJ Brown drop a week clinching TD."</p>
+  <p>"Sometimes i don't even have to wait until Sunday  for the pain to kick in. Sometimes it'll come on Thursday night when my opponents Lockett scores 53 points. Or sometimes it'll last all the way through Monday night as i watch AJ Brown drop a week clinching TD."</p>
   
   `;
 
