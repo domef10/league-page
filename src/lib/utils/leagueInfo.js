@@ -7,14 +7,13 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>11 Amateurs and 1 Pro - diese Dynasty-Liga entstand ursprünglich aus einer vor Jahren gegründeten 8 Team Redraft-Liga. 
-  Nachdem sich diese Liga über die Zeit auf 12 Teams erweiterte und auch die Roster und das Scoring komplexer wurden, entschied man sich schließlich im Jahre 2019 dazu, einen Dynasty-Ableger der sehr spassigen Ursprungsliga zu gründen.</p>
+  <p>11 Amateurs and 1 Pro - diese Dynasty-Liga entstand ursprünglich aus einer vor Jahren gegründeten 8 Team Redraft-Liga. Nachdem sich diese Liga über die Zeit auf 12 Teams erweiterte und auch die Roster und das Scoring komplexer wurden, entschied man sich schließlich im Jahre 2019 dazu, einen Dynasty-Ableger der sehr spassigen Ursprungsliga zu gründen.</p>
   <p>Da nicht alle Owner den zusätzlichen Schritt mitgehen wollten, wurden passende Kandidaten relativ schnell gefunden und es entstand eine sehr homogene und entspannte Truppe, die mit dem nötigen Ehrgeiz ausgestattet, seit dem um Ruhm und Ehre kämpfen.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-`;
+  <p>PAIN</p>
+  <p>"I used to to wake up on Sunday and feel slightly hungover but well rested to enjoy a relaxing day of football. Then I started playing dynasty football and my Sunday experience is like no other. Instead of taking a walk in the sun i sit and ask god why i have to face Zeugen Mariotas again. Pain has truly changed my life."</p>
+  <p>Sometimes i don't even have to wait until Sunday  for the pain to kick in. Sometimes it'll come on Thursday night when my opponents Lockett scores 53 points. Or sometimes it'll last all the way through Monday night as i watch AJ Brown drop a week clinching TD."</p>
+  
+  `;
 
 /*   STEP 3   */
 /*
